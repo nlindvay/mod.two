@@ -6,5 +6,9 @@ namespace mod.two.lib
         {
             return "ModTwoClass.GetModTwoString()";
         }
+        public string GetANumber()
+        {
+            return "2";
+        }
     }
 }
