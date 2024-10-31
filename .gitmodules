@@ -1,0 +1,3 @@
+[submodule "submodules/mod.three"]
+	path = submodules/mod.three
+	url = https://github.com/nlindvay/mod.three.git
