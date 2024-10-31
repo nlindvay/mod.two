@@ -15,5 +15,10 @@ namespace mod.two.lib
         {
             return "Another thing";
         }
+
+        public string Blah()
+        {
+            return "Blah";
+        }
     }
 }
