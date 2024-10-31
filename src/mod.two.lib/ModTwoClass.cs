@@ -25,5 +25,7 @@ namespace mod.two.lib
         {
             return "Xyz";
         }
+        
+        public string ChangedInSubModOfMod1() => "ChangedInSubModOfMod1";
     }
 }
