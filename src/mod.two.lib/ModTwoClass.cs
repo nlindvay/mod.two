@@ -10,5 +10,10 @@ namespace mod.two.lib
         {
             return "2";
         }
+
+        public string GetAnotherThing()
+        {
+            return "Another thing";
+        }
     }
 }
