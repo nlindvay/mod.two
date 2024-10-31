@@ -20,5 +20,10 @@ namespace mod.two.lib
         {
             return "Blah";
         }
+
+        public string Xyz()
+        {
+            return "Xyz";
+        }
     }
 }
